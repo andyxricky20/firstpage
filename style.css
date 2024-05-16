@@ -1,0 +1,80 @@
+@charset "utf-8";
+.container {
+	
+}
+.container header nav {
+	font-size: 32px;
+	background-color: rgba(255,255,255,0.84);
+	width: 733px;
+	margin-left: auto;
+	top: 197px;
+	position: relative;
+	height: 42px;
+	text-align: center;
+	border-radius: 25px;
+	margin-right: auto;
+	margin-top: 60px;
+	left: auto;
+	right: auto;
+}
+body nav {
+	width: 100%;
+  height: 70px;
+  background-color: #252525;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: fixed;
+  opacity: 0.9;
+  -webkit-box-shadow: 0px 1px 20px #6B6B6B;
+  box-shadow: 0px 1px 20px #6B6B6B;
+  z-index: 1000;
+}
+
+nav h3 {
+  color: #FFFFFF;
+  font-size: 18px;
+  margin-left: 20px;
+  font-weight: 500;
+}
+nav a:link {
+  color: #FFFFFF;
+  text-decoration: none;
+  font-weight: 300;
+}
+nav a:visited {
+  color: #FFFFFF;
+  text-decoration: none;
+  font-weight: 300;
+}
+nav a:hover {
+  color: #FFA9AB;
+  text-decoration: none;
+}
+nav ul {
+  margin-right: 20px;
+}
+
+header {
+	font-family: "標楷體";
+	font-size: 74px;
+	text-align: center;
+	width: 100%;
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	background-size: cover;
+	background-position: 0% center;
+	background-image: url(04ccda280db7196.jpg);
+}
+div header h3 {
+	font-size: 74px;
+	background-color: rgba(255,255,255,0.84);
+	border-radius: 59px;
+	position: fixed;
+	top: 238px;
+	right: auto;
+	left: auto;
+}
