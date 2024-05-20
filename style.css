@@ -57,7 +57,7 @@ nav ul {
 
 header {
 	font-family: "標楷體";
-	font-size: 74px;
+	font-size: 65px;
 	text-align: center;
 	width: 100%;
 	height: 100vh;
@@ -77,4 +77,12 @@ div header h3 {
 	top: 238px;
 	right: auto;
 	left: auto;
+}
+.ui-grid-b {
+	width: 720px;
+	height: 424px;
+
+
+
+
 }
