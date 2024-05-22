@@ -91,9 +91,9 @@ th { text-align:left; }
 th h3 { margin:.6em 0 .6em .5em; }
 th, td { vertical-align:top; border-top:1px solid #eee; padding: 1px 3px; background-color:#fcfcfc; }
 td .ui-btn { margin:.4em 0 .5em 0; }
-td .ui-btn-inner { padding: .4em 15px; }.ui-grid-b .ui-btn {
-	border-radius: 10px;
-	-webkit-box-shadow: 2px 3px rgba(156,156,156,0.75);
-	box-shadow: 2px 3px rgba(156,156,156,0.75);
-	margin-bottom: 45px;
+td .ui-btn-inner { padding: .4em 15px; }.ui-btn {
+	width: 351px;
+	border-radius: 13px;
+	-webkit-box-shadow: 3px 4px rgba(138,136,136,0.59);
+	box-shadow: 3px 4px rgba(138,136,136,0.59);
 }
